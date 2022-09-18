@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikosKalogeropoulos
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Ruby/Ruby on Rails
+- :diamonds: I’m currently learning Ruby/Ruby on Rails
 - 📫 How to reach me nikoskalogeropoulos12@gmail.com
 
 <!---
