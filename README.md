@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikosKalogeropoulos
 - 👀 I’m interested in Software Development
-- :diamonds: I’m currently learning Ruby/Ruby on Rails
+- :diamonds: I’m currently learning React/Express.js
 - 📫 How to reach me nikoskalogeropoulos12@gmail.com
 
 <!---
